@@ -17,3 +17,4 @@
 - CVE-2024-32523: Mailster <= 4.0.6 - Unauthenticated Local File Inclusion
 - CVE-2024-3806: Porto <= 7.1.0 - Unauthenticated Local File Inclusion via porto_ajax_posts CVE-2024-3807: Porto <= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta
 - CVE-2024-3807: Porto <= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta
+- CVE-2024-32709: WP-Recall – Registration, Profile, Commerce & More <= 16.26.5 - Unauthenticated SQL Injection
