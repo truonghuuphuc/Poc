@@ -15,3 +15,5 @@
 - CVE-2024-27972 WP Fusion Lite <= 3.41.24 - Authenticated (Contributor+) Remote Code Execution
 - CVE-2024-4352 Tutor LMS Pro <= 2.7.0 - Missing Authorization to SQL Injection
 - CVE-2024-32523 Mailster <= 4.0.6 - Unauthenticated Local File Inclusion
+- CVE-2024-3806: Porto <= 7.1.0 - Unauthenticated Local File Inclusion via porto_ajax_posts CVE-2024-3807: Porto <= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta
+- CVE-2024-3807: Porto <= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta
