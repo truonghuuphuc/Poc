@@ -5,3 +5,4 @@
 - CVE-2024-6028 Quiz Maker <= 6.5.8.3 - Unauthenticated SQL Injection via 'ays_questions' Parameter
 - CVE-2024-4898 InstaWP Connect – 1-click WP Staging & Migration <= 0.1.0.38 - Missing Authorization to Unauthenticated API setup/Arbitrary Options Update/Administrative User Creation
 - CVE-2024-3922 Dokan Pro <= 3.10.3 - Unauthenticated SQL Injection
+- CVE-2024-4295 Email Subscribers by Icegram Express <= 5.7.20 - Unauthenticated SQL Injection via hash
