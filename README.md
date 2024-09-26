@@ -6,3 +6,4 @@
 - CVE-2024-4898 InstaWP Connect – 1-click WP Staging & Migration <= 0.1.0.38 - Missing Authorization to Unauthenticated API setup/Arbitrary Options Update/Administrative User Creation
 - CVE-2024-3922 Dokan Pro <= 3.10.3 - Unauthenticated SQL Injection
 - CVE-2024-4295 Email Subscribers by Icegram Express <= 5.7.20 - Unauthenticated SQL Injection via hash
+- CVE-2024-5326 Post Grid Gutenberg Blocks and WordPress Blog Plugin – PostX <= 4.1.2 - Missing Authorization to Arbitrary Options Update
