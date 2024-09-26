@@ -19,3 +19,4 @@
 - CVE-2024-3807: Porto <= 7.1.0 - Authenticated (Contributor+) Local File Inclusion via Post Meta
 - CVE-2024-32709: WP-Recall – Registration, Profile, Commerce & More <= 16.26.5 - Unauthenticated SQL Injection
 - CVE-2024-30491: ProfileGrid <= 5.7.8 - Authenticated (Subscriber+) SQL Injection
+- CVE-2024-27971: WordPress Premmerce Permalink Manager for WooCommerce Plugin <= 2.3.10 is vulnerable to Local File Inclusion
