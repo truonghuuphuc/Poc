@@ -13,3 +13,4 @@
 - CVE-2024-4443 Business Directory Plugin – Easy Listing Directories for WordPress <= 6.4.2 - Unauthenticated SQL Injection via listingfields Parameter
 - CVE-2024-3495 Country State City Dropdown CF7 <= 2.7.2 - Unauthenticated SQL Injection
 - CVE-2024-27972 WP Fusion Lite <= 3.41.24 - Authenticated (Contributor+) Remote Code Execution
+- CVE-2024-4352 Tutor LMS Pro <= 2.7.0 - Missing Authorization to SQL Injection
