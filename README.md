@@ -11,3 +11,4 @@
 - CVE-2024-3293 rtMedia for WordPress, BuddyPress and bbPress <= 4.6.18 - Authenticated (Contributor+) SQL Injection via rtmedia_gallery Shortcode
 - CVE-2024-3552 Web Directory Free <= 1.6.9 - Unauthenticated SQL Injection
 - CVE-2024-4443 Business Directory Plugin – Easy Listing Directories for WordPress <= 6.4.2 - Unauthenticated SQL Injection via listingfields Parameter
+- CVE-2024-3495 Country State City Dropdown CF7 <= 2.7.2 - Unauthenticated SQL Injection
