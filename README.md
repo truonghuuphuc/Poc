@@ -8,3 +8,4 @@
 - CVE-2024-4295 Email Subscribers by Icegram Express <= 5.7.20 - Unauthenticated SQL Injection via hash
 - CVE-2024-5326 Post Grid Gutenberg Blocks and WordPress Blog Plugin – PostX <= 4.1.2 - Missing Authorization to Arbitrary Options Update
 - CVE-2024-5522 HTML5 Video Player <= 2.5.26 - Unauthenticated SQL Injection
+- CVE-2024-3293 rtMedia for WordPress, BuddyPress and bbPress <= 4.6.18 - Authenticated (Contributor+) SQL Injection via rtmedia_gallery Shortcode
