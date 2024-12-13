@@ -21,3 +21,4 @@
 - CVE-2024-30491: ProfileGrid <= 5.7.8 - Authenticated (Subscriber+) SQL Injection
 - CVE-2024-27971: WordPress Premmerce Permalink Manager for WooCommerce Plugin <= 2.3.10 is vulnerable to Local File Inclusion
 - CVE-2024-27956: WordPress Automatic < 3.92.1 - Unauthenticated SQL Injection
+- CVE-2024-55663: XWiki Platform has an SQL injection in getdocuments.vm with sort parameter
